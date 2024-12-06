@@ -157,7 +157,7 @@ Ekambareswarar Temple, Chennai is a Hindu temple situated in the neighbourhood o
 ```
 
 ## OUTPUT
-![alt text](6.png)
+![alt text](<Screenshot (23).png>)
 ![alt text](<1 (1).png>)
 ![alt text](2.png)
 ![alt text](3.png)
